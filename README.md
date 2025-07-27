@@ -1,6 +1,4 @@
-Here’s a **polished and professional README** for your **AI-Powered Career Coach App** project:
 
----
 
 # AI-Powered Career Coach App
 
